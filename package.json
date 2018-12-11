@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer-test",
+  "version": "1.0.0",
+  "description": "testing how puppeteer uses headless vs headful",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ramesh",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^1.18.7",
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {
+    "ndb": "^1.0.42"
+  }
+}
